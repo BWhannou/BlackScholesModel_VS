@@ -1,0 +1,39 @@
+﻿La génération a démarré 13/02/2015 19:16:01.
+     1>Projet "\\paradis\eleves\BWHANNOU\Bureau\C++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>\\paradis\eleves\bwhannou\bureau\c++\consoleapplication2\consoleapplication2\payoffdigitalcall.h(35): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\paradis\eleves\BWHANNOU\Bureau\C++\ConsoleApplication2\Debug\ConsoleApplication2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\paradis\eleves\BWHANNOU\Bureau\C++\ConsoleApplication2\Debug\ConsoleApplication2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\paradis\eleves\BWHANNOU\Bureau\C++\ConsoleApplication2\Debug\ConsoleApplication2.lib" /MACHINE:X86 Debug\ActuarialDF.obj
+         Debug\AsianPayOff.obj
+         Debug\AsianStrike.obj
+         Debug\Binomial.obj
+         Debug\BlackS.obj
+         Debug\BoxMuller.obj
+         Debug\ContinuousDF.obj
+         Debug\ContinuousTime.obj
+         Debug\DiscountFactor.obj
+         Debug\DiscreteTime.obj
+         Debug\Generator.obj
+         Debug\Interface.obj
+         Debug\main.obj
+         Debug\mersenne.obj
+         Debug\MonteCarlo.obj
+         Debug\mother.obj
+         Debug\NormGen.obj
+         Debug\Option.obj
+         Debug\PayOff.obj
+         Debug\PayOffCall.obj
+         Debug\PayOffDigitalCall.obj
+         Debug\PayOffDigitalPut.obj
+         Debug\PayOffPut.obj
+         Debug\PricerModel.obj
+         Debug\UniGen.obj
+         Debug\UniGenLC.obj
+         ConsoleApplication2.vcxproj -> \\paradis\eleves\BWHANNOU\Bureau\C++\ConsoleApplication2\Debug\ConsoleApplication2.exe
+     1>Génération du projet "\\paradis\eleves\BWHANNOU\Bureau\C++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:02.77
